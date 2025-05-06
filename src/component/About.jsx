@@ -11,7 +11,7 @@ const About = () => {
         <img src={AboutmeImage} alt=''className='w-92 h-92 rounded object-cover mb-8 md:mb-0' />
           <div className='flex-1'>
             <p className='text-lg mb-8'>
-            I am a passionate full-stack developer with a focus on building 
+            I am a passionate Frontend developer with a focus on building 
             modern and responsive web application. With a strong foundation
             in both fronted and backend technologyies, I strive to create
             seamless and efficient user experiences.
