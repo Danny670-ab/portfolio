@@ -13,13 +13,13 @@ const services = [
     },
     {
         id:3,
-        title: "Backend Development",
-        description: "Developing robust server-side logic and databases.",
+        title: "UI/UX Designer",
+        description: "With designing skills.",
     },
     {
         id:4,
-        title: "Full-stack Development",
-        description: "Combiningbothfrontend and backend development skills.",
+        title: " Web App Interface Development",
+        description: "Create user interfaces (UI) for web applications.",
     },
     {
         id:5,
@@ -28,8 +28,8 @@ const services = [
     },
     {
         id:6,
-        title:"Digital Marketing",
-        description:"Promote your business with our digital marketing team.",
+        title:"CMS Theme Development",
+        description: "build and customize the visual design and layout (theme) that controls how a website looks and behaves.",
     }
 ]
 const Service = () => {

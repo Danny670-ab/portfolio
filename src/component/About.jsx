@@ -13,7 +13,7 @@ const About = () => {
             <p className='text-lg mb-8'>
             I am a passionate Frontend developer with a focus on building 
             modern and responsive web application. With a strong foundation
-            in both fronted and backend technologyies, I strive to create
+            in fronted technologyies, I strive to create
             seamless and efficient user experiences.
             </p>
             <div className='space-y-4'>
@@ -49,7 +49,7 @@ const About = () => {
             <div className='mt-12 flex justify-between text-center'>
               <div>
                <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r fom-green-400 to-blue-500'>
-                    3+
+                    2+
                  </h3>
                  <p>
                   Years experience
@@ -57,7 +57,7 @@ const About = () => {
               </div>
               <div>
                <h3 className='text-2xl font-bold text-transparent bg-clip-text bg-gradient-to-r fom-green-400 to-blue-500'>
-                    50+
+                    20+
                  </h3>
                  <p>
                   Projects Completed
